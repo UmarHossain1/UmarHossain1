@@ -33,4 +33,4 @@ I am a Mern-Stack Developer Specialized at Front-End technology. I have complete
  <br/>
         **LinkedIn:** https://www.linkedin.com/in/umarhossain1/
  <br/>
-⚡Fun fact *I am Coffee addict.*
+⚡Fun fact **I am Coffee addict.**
