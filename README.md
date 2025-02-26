@@ -6,7 +6,7 @@ Hi,
 **Professional Web Developer(MERN) From Bangladesh.**
 <br/>
 <br/>
-I am a Mern-Stack Developer Specialized at Front-End technology. I have completed around 6+ Mern-Stack Projects.I am now ready to get hired. Lets explore my Github and connect with me.I want to express my innovative, creative skills for company growth through the assigned responsibility.
+I am a Mern-Stack Developer Specialized at Front-End technology. I have completed around 6+ MERN-Stack Projects.I am now ready to get hired. Lets explore my Github and connect with me.I want to express my innovative, creative skills for company growth through the assigned responsibility.
 <br/>
 <br/>
 **I'm a dedicated Full Stack Web Development with a passion for:**
