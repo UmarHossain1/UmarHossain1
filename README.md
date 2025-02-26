@@ -27,3 +27,9 @@ I am a Mern-Stack Developer Specialized at Front-End technology. I have complete
 💻 Html, CSS, JavaScript, React, Node Js, MongoDB
 <br/>
 <br/>
+📲 **How to reach me:**
+ <br/>
+     **Email:** umarhossain001@gmail.com
+ <br/>
+     **LinkedIn:** https://www.linkedin.com/in/umarhossain1/
+ <br/>
