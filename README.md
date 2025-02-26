@@ -18,3 +18,12 @@ I am a Mern-Stack Developer Specialized at Front-End technology. I have complete
 🌱 I’m currently learning TypeScript,NextJs,Redux
 <br/>
 <br/>
+💬 **Ask me about:**
+<br/>
+🌐 Web Development 💻
+<br/>
+📱 Application Development 📈
+<br/>
+💻 Html, CSS, JavaScript, React, Node Js, MongoDB
+<br/>
+<br/>
