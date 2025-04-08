@@ -1,16 +1,14 @@
-Hi,
+🔥 ***About Me***
+I’m a Junior **Web Developer** currently working on a responsive **JavaScript** and **React** project.
+My primary focus is frontend development, specializing in React.js, JavaScript (ES6+), and modern UI frameworks.
+I have experience with CSS, Tailwind CSS and Daisy UI for responsive and dynamic UI design.
+I'm also exploring backend technologies, including Node.js, Express.js, and databases MongoDB to expand my coding knowledge.
 <br/>
-<br/>
-**I'm Umar Hossain**
-<br/>
-**Professional Web Developer(MERN) From Bangladesh.**
-<br/>
-<br/>
-I am a Mern-Stack Developer Specialized at Front-End technology. I have completed around 6+ MERN-Stack Projects.I am now ready to get hired. Lets explore my Github and connect with me.I want to express my innovative, creative skills for company growth through the assigned responsibility.
-<br/>
-<br/>
-**I'm a dedicated Full Stack Web Development with a passion for:**
-<br/>
+
+🤝 ****Collaboration & Learning****
+I’m looking to collaborate on frontend projects, open-source contributions, and UI/UX-focused applications.
+Currently improving my skills in React optimization, performance tuning, and full-stack development.
+
 🌐 **Web Development:** Building fast, secure, and scalable web applications using modern technologies like HTML, CSS, JavaScript, and React.
 <br/>
 🔎 **Always Learning!:** Currently mastering advanced techniques and building complex web applications.
