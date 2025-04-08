@@ -1,4 +1,5 @@
 🔥 **About Me**
+<hr>
 <br>
 I’m a Junior **Web Developer** currently working on a responsive **JavaScript** and **React** project.
 My primary focus is frontend development, specializing in React.js, JavaScript (ES6+), and modern UI frameworks.
@@ -7,6 +8,7 @@ I'm also exploring backend technologies, including Node.js, Express.js, and data
 <br/>
 
 🤝 **Collaboration & Learning**
+<hr>
 <br>
 I’m looking to collaborate on frontend projects, open-source contributions, and UI/UX-focused applications.
 Currently improving my skills in React optimization, performance tuning, and full-stack development.
