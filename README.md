@@ -22,15 +22,6 @@ I specialize in building secure, scalable web applications with a core focus on 
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://github.com/UmarHossain1"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.linkedin.com/in/umarhossain1/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=email" /></a>
-</p>
-
----
-
 ## 🛠️ My Skills
 
 ### 🌐 Frontend
@@ -49,6 +40,13 @@ I specialize in building secure, scalable web applications with a core focus on 
 </p>
 
 ---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/UmarHossain1"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/umarhossain1/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
 
 ## 📊 GitHub Stats
 <p align="center">
