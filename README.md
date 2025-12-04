@@ -13,7 +13,7 @@
 - 🔭 I’m currently building **MERN Stack Projects**  
 - 🌱 Learning **Advanced React, Node.js, MongoDB, and Cloud Deployment**  
 - 💬 Ask me about **MERN Stack, APIs, JavaScript**  
-- 🎯 Goal: Become a **Senior MERN Stack Developer**  
+- 🎯 Goal: Become a **Full Stack Developer**  
 - ⚡ Fun fact: *I love turning designs into working web apps 🚀*
 
 ---
@@ -21,8 +21,8 @@
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://github.com/UmarHossain1"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="#"><img src="[https://skillicons.dev/icons?i=linkedin](https://www.linkedin.com/in/umarhossain1/)" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://www.linkedin.com/in/umarhossain1/"><img src="[https://skillicons.dev/icons?i=linkedin]" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
@@ -58,22 +58,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmarHossain1&theme=tokyonight" />
 </p>
-
----
-
-## 🧩 Featured MERN Projects
-
-### 🌐 E-Commerce Website
-📎 Link: *(paste your repo link)*  
-📝 React + Node.js + Express + MongoDB + JWT auth + Stripe payment integration.
-
-### 📝 Task Manager App
-📎 Link: *(paste your repo link)*  
-📝 Full CRUD MERN Stack app with authentication and REST API.
-
-### 💬 Chat App
-📎 Link: *(paste your repo link)*  
-📝 Real-time chat using Socket.io + Node.js + MongoDB backend.
 
 ---
 
