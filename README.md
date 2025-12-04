@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Umar Hossain</h1>
-<h3 align="center">MERN Stack Developer | React | Node.js | Express | MongoDB</h3>
+<h3 align="center">MERN Stack Developer | React | Node.js | Express.js | MongoDB</h3>
 
 <!-- VISITOR COUNTER -->
 <p align="center">
@@ -21,8 +21,8 @@
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://github.com/UmarHossain1"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.linkedin.com/in/umarhossain1/"><img src="[https://skillicons.dev/icons?i=linkedin]" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/umarhossain1/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=email" /></a>
 </p>
 
 ---
@@ -64,9 +64,5 @@
 ## 🎯 2026 Goals
 - Build 20+ full MERN stack projects  
 - Contribute daily on GitHub  
-- Learn Next.js + TypeScript  
-- Deploy projects on Vercel/Heroku  
+- Learn Next.js + TypeScript   
 
----
-
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
