@@ -35,7 +35,7 @@ I specialize in building secure, scalable web applications with a core focus on 
 
 ### 🛠 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
 </p>
 
 ---
@@ -45,7 +45,6 @@ I specialize in building secure, scalable web applications with a core focus on 
   <a href="https://github.com/UmarHossain1"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.linkedin.com/in/umarhossain1/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=portfolio" /></a>
 </p>
 
 ## 📊 GitHub Stats
@@ -64,7 +63,7 @@ I specialize in building secure, scalable web applications with a core focus on 
 ---
 
 ## 🎯 2026 Goals
-- Build 20+ full MERN stack projects  
+- Build 10+ full MERN stack projects  
 - Contribute daily on GitHub  
 - Learn Next.js + TypeScript
 
