@@ -25,7 +25,7 @@ I specialize in building secure, scalable web applications with a core focus on 
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,daisyui" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,daisyUI" />
 </p>
 
 ### ⚡ Backend
