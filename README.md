@@ -1,59 +1,52 @@
-<!-- HEADER BANNER -->
+<!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Umar Hossain</h1>
-<h3 align="center">A Passionate Web Developer (Node.js & React)</h3>
+<h3 align="center">MERN Stack Developer | React | Node.js | Express | MongoDB</h3>
 
-<!-- VISITOR COUNT -->
+<!-- VISITOR COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UmarHossain1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=UmarHossain1&label=Profile%20Views&color=blue&style=flat" alt="views" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🔭 I’m currently working on **Node.js & Express.js Backend Development**  
-- 🌱 Learning **Full Stack Development (React + Node.js)**  
-- 💬 Ask me about **JavaScript, Node.js, Express.js, MongoDB**  
-- 🎯 Goal: Become a **Senior Backend Developer**  
-- ⚡ Fun fact: *I break code to fix code 😄*
+## 💻 About Me
+- 🔭 I’m currently building **MERN Stack Projects**  
+- 🌱 Learning **Advanced React, Node.js, MongoDB, and Cloud Deployment**  
+- 💬 Ask me about **MERN Stack, APIs, JavaScript**  
+- 🎯 Goal: Become a **Senior MERN Stack Developer**  
+- ⚡ Fun fact: *I love turning designs into working web apps 🚀*
 
 ---
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://github.com/UmarHossain1"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://github.com/UmarHossain1"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="#"><img src="[https://skillicons.dev/icons?i=linkedin](https://www.linkedin.com/in/umarhossain1/)" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ My Skills
 
-### 🚀 Languages
+### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,daisyui" />
 </p>
 
-### 🔥 Backend
+### ⚡ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
 ### 🛠 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UmarHossain1&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmarHossain1&layout=compact&theme=tokyonight" />
@@ -68,33 +61,28 @@
 
 ---
 
-## 🧩 Featured Projects
-### 🚀 JavaScript Practice Repo  
-🔗 https://github.com/UmarHossain1/js-practice  
-📌 Basic JS codes, variables, functions & logic building.
+## 🧩 Featured MERN Projects
+
+### 🌐 E-Commerce Website
+📎 Link: *(paste your repo link)*  
+📝 React + Node.js + Express + MongoDB + JWT auth + Stripe payment integration.
+
+### 📝 Task Manager App
+📎 Link: *(paste your repo link)*  
+📝 Full CRUD MERN Stack app with authentication and REST API.
+
+### 💬 Chat App
+📎 Link: *(paste your repo link)*  
+📝 Real-time chat using Socket.io + Node.js + MongoDB backend.
 
 ---
 
-## 🎯 Goal for 2025  
-- Build 20+ real projects  
+## 🎯 2026 Goals
+- Build 20+ full MERN stack projects  
 - Contribute daily on GitHub  
-- Become a strong Backend Developer  
+- Learn Next.js + TypeScript  
+- Deploy projects on Vercel/Heroku  
 
 ---
 
 <h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
-
-<!--
-**UmarHossain1/UmarHossain1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
