@@ -18,7 +18,6 @@ I specialize in building secure, scalable web applications with a core focus on 
 - 🌱 Learning **Advanced React, Node.js, MongoDB, and Cloud Deployment**  
 - 💬 Ask me about **MERN Stack, APIs, JavaScript**  
 - 🎯 Goal: Become a **Full Stack Developer**  
-- ⚡ Fun fact: *I love turning designs into working web apps 🚀*
 
 ---
 
@@ -42,7 +41,7 @@ I specialize in building secure, scalable web applications with a core focus on 
 ---
 
 ## 🌐 Connect With Me
-<p align="center">
+<p align="left">
   <a href="https://github.com/UmarHossain1"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.linkedin.com/in/umarhossain1/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=gmail" /></a>
@@ -66,5 +65,8 @@ I specialize in building secure, scalable web applications with a core focus on 
 ## 🎯 2026 Goals
 - Build 20+ full MERN stack projects  
 - Contribute daily on GitHub  
-- Learn Next.js + TypeScript   
+- Learn Next.js + TypeScript
+
+
+-- ⚡ Fun fact: *I'm naturally calm, but  I light up when it comes to writing code, or diving into deep topics 🚀*
 
