@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Umar Hossain</h1>
+<h1 align="center">Hey 👋, I'm Umar Hossain</h1>
 <h3 align="center">MERN Stack Developer | React | Node.js | Express.js | MongoDB</h3>
 
 <!-- VISITOR COUNTER -->
@@ -10,6 +10,10 @@
 ---
 
 ## 💻 About Me
+
+I am a MERN Stack Developer,
+I specialize in building secure, scalable web applications with a core focus on security and automation. My philosophy is centered on engineering clean, maintainable code and developing robust infrastructure that scales effortlessly.
+
 - 🔭 I’m currently building **MERN Stack Projects**  
 - 🌱 Learning **Advanced React, Node.js, MongoDB, and Cloud Deployment**  
 - 💬 Ask me about **MERN Stack, APIs, JavaScript**  
