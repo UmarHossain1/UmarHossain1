@@ -2,10 +2,6 @@
 <h1 align="center">Hey 👋, I'm Umar Hossain</h1>
 <h3 align="center">MERN Stack Developer | React | Node.js | Express.js | MongoDB</h3>
 
-<!-- VISITOR COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UmarHossain1&label=Profile%20Views&color=blue&style=flat" alt="views" />
-</p>
 
 ---
 
